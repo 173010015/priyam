@@ -25,7 +25,7 @@ SECRET_KEY = ')0scd_obuuvvriycqr46+oo!pu*cv9^*f-o$h%1)f@c4jan(3g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['priyamarya.com','www.priyamarya.com','54.201.130.251']
 
 
 # Application definition
